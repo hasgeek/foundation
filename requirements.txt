@@ -1,0 +1,4 @@
+-e git+https://github.com/hasgeek/coaster@master#egg=coaster
+-e git+https://github.com/hasgeek/flask-lastuser@master#egg=Flask-Lastuser
+-e git+https://github.com/hasgeek/baseframe@master#egg=baseframe
+-e git+https://github.com/jace/flask-alembic@master#egg=Flask-Alembic
